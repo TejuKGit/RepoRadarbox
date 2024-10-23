@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Testsuite1,Chrome 129.0.0.0,,,23-10-2024 23:16:02,23-10-2024 23:17:35,1m - 33.062s,FAILED
+,,,,,,,
+Test Cases/Airportview,Chrome 129.0.0.0,,,23-10-2024 23:16:02,23-10-2024 23:16:51,48.371s,PASSED
+Keywords1.openBrowserAndNavigateToURL(URL),Chrome 129.0.0.0,,,23-10-2024 23:16:02,23-10-2024 23:16:19,16.319s,PASSED
+Keywords1.landOnAirportview(),Chrome 129.0.0.0,,,23-10-2024 23:16:19,23-10-2024 23:16:42,23.319s,PASSED
+"Keywords1.enterDetails(user, email)",Chrome 129.0.0.0,,,23-10-2024 23:16:42,23-10-2024 23:16:51,8.561s,PASSED
+,,,,,,,
+Test Cases/Ranking,Chrome 129.0.0.0,,,23-10-2024 23:16:51,23-10-2024 23:17:34,43.792s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,23-10-2024 23:16:51,23-10-2024 23:16:52,0.995s,PASSED
+maximizeWindow(),Chrome 129.0.0.0,,,23-10-2024 23:16:52,23-10-2024 23:16:52,0.031s,PASSED
+"navigateToUrl(""https://www.radarbox.com/"")",Chrome 129.0.0.0,,,23-10-2024 23:16:52,23-10-2024 23:16:55,3.212s,PASSED
+"click(findTestObject(""Object Repository/New Folder/Page_AirNav RadarBox - Live Flight Tracker _6aae32/path""))",Chrome 129.0.0.0,,,23-10-2024 23:16:55,23-10-2024 23:17:27,32.493s,PASSED
+"click(findTestObject(""Object Repository/New Folder/Page_AirNav RadarBox - Live Flight Tracker _6aae32/span_Coverage""))",Chrome 129.0.0.0,,,23-10-2024 23:17:27,23-10-2024 23:17:28,0.284s,PASSED
+"click(findTestObject(""Object Repository/New Folder/Page_AirNav RadarBox - Live Flight Tracker _6aae32/a_Global Ranking""))",Chrome 129.0.0.0,,,23-10-2024 23:17:28,23-10-2024 23:17:33,5.732s,PASSED
+takeScreenshot(),Chrome 129.0.0.0,,,23-10-2024 23:17:33,23-10-2024 23:17:34,0.787s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,23-10-2024 23:17:34,23-10-2024 23:17:34,0.193s,PASSED
+,,,,,,,
+Test Cases/BDD,Chrome 129.0.0.0,,,23-10-2024 23:17:34,23-10-2024 23:17:35,0.780s,FAILED
+"runFeatureFile(""Include/features/FeatureFile.feature"")",Chrome 129.0.0.0,,,23-10-2024 23:17:34,23-10-2024 23:17:35,0.734s,FAILED

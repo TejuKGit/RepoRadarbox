@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Solutions</name>
+   <tag></tag>
+   <elementGuidId>ec60fff5-c779-4a15-ba4e-7c3dbf85ea4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ListItemLabel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriptions'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Solutions$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>59aecb5a-4d50-4e84-8d14-8d47a3e85362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ListItemLabel</value>
+      <webElementGuid>c4242f35-abed-48b8-bd40-f9e57fbcc72f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solutions</value>
+      <webElementGuid>ba7ef63f-7cb3-47c4-827c-519622c74b0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pr-cons&quot;]/header[1]/div[@class=&quot;sc-XxOsz sQArU&quot;]/nav[@class=&quot;sc-iAKVOt gwzDgV&quot;]/ul[@class=&quot;sc-hBURRC kQUxvR List CollapsibleList ListWithSeparators&quot;]/li[@class=&quot;sc-egiSv hZbsoo ListItem sc-bqiQRQ imPtOh top-level NavigationMenuListItem ListItemClickable&quot;]/div[@class=&quot;ListItemLabel&quot;]</value>
+      <webElementGuid>876f1a96-e576-4b2b-bcca-b59c03697c88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriptions'])[1]/following::div[1]</value>
+      <webElementGuid>69f13b33-ad18-4243-b730-178986b592fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Store'])[1]/preceding::div[1]</value>
+      <webElementGuid>3dbade00-6da7-496a-8dd9-67829e6d4bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div</value>
+      <webElementGuid>991fd137-0629-4cda-9d12-1b6bfd0d80f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Solutions' or . = 'Solutions')]</value>
+      <webElementGuid>6833fdb9-971d-4dc3-83da-9b2b53292ab6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

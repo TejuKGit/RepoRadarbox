@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/New Folder/Page_AirNav RadarBox - Live Flight Tracker _6aae32/path",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "#splash-close-container path",
+      "proposedLocatorMethod": "SMART_LOCATOR",
+      "recoveryMethod": "SMART_LOCATOR",
+      "pathToScreenshot": "Reports/20241023_231557/Testsuite1/20241023_231557/Object Repository/New Folder/Page_AirNav RadarBox - Live Flight Tracker _6aae32/path_SMART_LOCATOR.png"
+    }
+  ]
+}

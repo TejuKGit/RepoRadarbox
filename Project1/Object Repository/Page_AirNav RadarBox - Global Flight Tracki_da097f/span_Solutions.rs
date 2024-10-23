@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Solutions</name>
+   <tag></tag>
+   <elementGuidId>e028fc1d-ad61-4841-9ee6-a864a08af00f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ListItemLabel > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriptions'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Solutions&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ed9b22ed-a42f-442d-9960-45a33febdee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solutions</value>
+      <webElementGuid>c597ef87-f71e-4f81-919a-a82b0870b555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pr-cons full-screen-map bottomMenu&quot;]/header[1]/div[@class=&quot;sc-bilypg kbjQyn transparent&quot;]/nav[@class=&quot;sc-jObXwK dzYCnw&quot;]/ul[@class=&quot;sc-bBHwJV jmanQO List CollapsibleList ListWithSeparators&quot;]/li[@class=&quot;sc-dlVyqM hqodcB ListItem sc-kfPtPH cDiYio top-level NavigationMenuListItem ListItemClickable&quot;]/div[@class=&quot;ListItemLabel&quot;]/span[1]</value>
+      <webElementGuid>31075c27-c4c0-464b-9347-474bb2e16fe3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriptions'])[1]/following::span[1]</value>
+      <webElementGuid>d7740c0f-1cb9-4141-bde2-6ca688e8a714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Store'])[1]/preceding::span[1]</value>
+      <webElementGuid>1d1a25de-b317-422d-bf65-fb4e36e32ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Now'])[1]/preceding::span[2]</value>
+      <webElementGuid>c7bd8444-6129-4ad1-b557-69154faf2e56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Solutions']/parent::*</value>
+      <webElementGuid>d820a50a-b32e-48e2-b009-6f10b24b8d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/span</value>
+      <webElementGuid>4c53a3d0-a2e6-4a23-a1b6-af583fdc2fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Solutions' or . = 'Solutions')]</value>
+      <webElementGuid>01053671-4c86-4bd2-b7ec-9b33d370f2ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

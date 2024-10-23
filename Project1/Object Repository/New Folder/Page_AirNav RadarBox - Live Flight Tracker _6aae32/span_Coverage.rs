@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Coverage</name>
+   <tag></tag>
+   <elementGuidId>bf9f20b1-13f1-4197-86be-fbedb896b835</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kitty Hawk Challenge'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Coverage&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dc0b1025-804e-483e-8fdb-723fdd0648ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Coverage</value>
+      <webElementGuid>0ce07ab0-bd7c-4494-9e42-4e21e7109a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pr-cons full-screen-map bottomMenu&quot;]/header[1]/div[@class=&quot;sc-PZstE cvXkni transparent&quot;]/nav[@class=&quot;sc-DtlDN jjyQap&quot;]/ul[@class=&quot;sc-iJKOzS iWqaTP List CollapsibleList ListWithSeparators&quot;]/li[@class=&quot;sc-cxpRKc bReyzf ListItem sc-eGRTUG kOYuEr top-level NavigationMenuListItem ListItemClickable&quot;]/div[@class=&quot;ListItemLabel&quot;]/span[1]</value>
+      <webElementGuid>a086a5a2-0642-47d9-97ce-d84658be9a1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kitty Hawk Challenge'])[1]/following::span[1]</value>
+      <webElementGuid>bcd2e015-da6d-4dbb-89dc-d3d6b5d44dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RadarBox and Neurored Alliance'])[1]/following::span[1]</value>
+      <webElementGuid>84ef6dd9-d224-440c-a385-5714d970e55d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coverage Map'])[1]/preceding::span[1]</value>
+      <webElementGuid>683db1b4-fc0f-4adb-9050-0d3c5d96b290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GPS Accuracy'])[1]/preceding::span[1]</value>
+      <webElementGuid>e89dba15-700f-4d3e-a91c-ef9a5bd40d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Coverage']/parent::*</value>
+      <webElementGuid>9818e455-15da-44da-a1f2-ec16a2cffb37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/span</value>
+      <webElementGuid>7bd9accd-d1ed-4b49-a118-4a3087da05ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Coverage' or . = 'Coverage')]</value>
+      <webElementGuid>c147b7a6-d74b-40ae-993e-633422e0c5d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

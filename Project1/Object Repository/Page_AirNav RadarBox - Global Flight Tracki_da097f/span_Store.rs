@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Store</name>
+   <tag></tag>
+   <elementGuidId>868e981a-b079-47c9-a220-1850938fb1a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sc-dlVyqM.hqodcB.ListItem.sc-kfPtPH.cDiYio.NavigationMenuListItem.ListItemClickable > div.ListItemLabel > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Solutions'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Store&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0ed8d2dd-0d99-4f93-ade3-e8a111b3bffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Store</value>
+      <webElementGuid>1efd6c4b-0c86-495c-83d7-9fbfdec1729a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pr-cons full-screen-map bottomMenu&quot;]/header[1]/div[@class=&quot;sc-bilypg kbjQyn transparent&quot;]/nav[@class=&quot;sc-jObXwK dzYCnw&quot;]/ul[@class=&quot;sc-bBHwJV jmanQO List CollapsibleList ListWithSeparators&quot;]/li[@class=&quot;sc-1r60hsm-0 fGkvnU ListItem sc-5meb5d-0 hEAeUN top-level NavigationMenuListItem ListItemSelected ListItemClickable&quot;]/div[@class=&quot;CollapsibleListItem-content&quot;]/ul[@class=&quot;sc-bBHwJV jmanQO List CollapsibleList&quot;]/li[@class=&quot;sc-dlVyqM hqodcB ListItem sc-kfPtPH cDiYio NavigationMenuListItem ListItemClickable&quot;]/div[@class=&quot;ListItemLabel&quot;]/span[1]</value>
+      <webElementGuid>561073f8-bef9-48c3-aaa8-80731ac7d55a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Solutions'])[1]/following::span[1]</value>
+      <webElementGuid>2b63c6e4-37ef-40fe-9339-a17ca93c051f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriptions'])[1]/following::span[2]</value>
+      <webElementGuid>e50262de-e106-44f3-9baa-fe6ea56a7a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Now'])[1]/preceding::span[1]</value>
+      <webElementGuid>01b00845-d986-4a10-b3ee-ec122789e2f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/preceding::span[1]</value>
+      <webElementGuid>753afe90-a80a-4971-84fa-d09311c3bea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Store']/parent::*</value>
+      <webElementGuid>709eb8c0-6be0-45f1-b167-5ccc3b550e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/div/span</value>
+      <webElementGuid>7d40da1d-4ba6-4ac1-a6f8-965cb76ddd5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Store' or . = 'Store')]</value>
+      <webElementGuid>e5d052e2-af48-4fd9-b7b1-1434d199434c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

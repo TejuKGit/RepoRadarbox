@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add to Cart</name>
+   <tag></tag>
+   <elementGuidId>18226e2c-eaca-48f7-999b-a0eb9a7b2798</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.Button__button__b_aG7.Button__addToCart__uNhnX.Button__rio__MZMEK.ProductGridItem__addToCartBtn__A_kTb.Button__small__DfILt.Button__disableInternalPointerEvents__lSs9R</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ProductGrid-m0x6kj95hl']/div/div/div/div/ul/li/div[2]/div[4]/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Add to Cart, AirNav RadarBox FlightStick - ADS-B USB Receiver with Integrated Filter, Amplifier and ESD Protection Green&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5418085a-7565-4870-8543-e6084d5914e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button__button__b_aG7 Button__addToCart__uNhnX Button__rio__MZMEK ProductGridItem__addToCartBtn__A_kTb Button__small__DfILt Button__disableInternalPointerEvents__lSs9R</value>
+      <webElementGuid>e0add519-d413-445e-bbfa-1a872b1490d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ac3c3321-fba7-4f45-bed8-2e99cc719eb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Add to Cart, AirNav RadarBox FlightStick - ADS-B USB Receiver with Integrated Filter, Amplifier and ESD Protection Green</value>
+      <webElementGuid>a2f66da8-bf09-4b7c-a9ae-511536dca855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-click-type</name>
+      <type>Main</type>
+      <value>ADDTOCART</value>
+      <webElementGuid>4110478d-93ff-4d71-8887-f676635815eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Cart</value>
+      <webElementGuid>e4a0f2ca-3b35-488a-8c18-688df3a57a28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProductGrid-m0x6kj95hl&quot;)/div[1]/div[1]/div[@class=&quot;columns&quot;]/div[@class=&quot;ProductGrid__gridContainer__bRK6J ProductGrid__grid-tapestry__iHaC3&quot;]/ul[@class=&quot;ProductGrid__grid__f5oba&quot;]/li[@class=&quot;ProductGridItem__itemOuter__KUtvv ProductGridItem__grid-tapestry__D0bpE ProductGridItem__fixed__DQzmO&quot;]/div[@class=&quot;ProductGridItem__item__IkSDt ProductGridItem__item-with-best-seller__JKmOp&quot;]/div[@class=&quot;ProductGridItem__itemInfo__wl2YN&quot;]/div[@class=&quot;ProductGridItem__addToCart__ax68_ ProductGridItem__rio__of2Yj&quot;]/div[@class=&quot;ProductGridItem__addToCartBtn__A_kTb&quot;]/button[@class=&quot;Button__button__b_aG7 Button__addToCart__uNhnX Button__rio__MZMEK ProductGridItem__addToCartBtn__A_kTb Button__small__DfILt Button__disableInternalPointerEvents__lSs9R&quot;]</value>
+      <webElementGuid>6a7c47cd-8b6f-45b6-8e8f-edb16e4a9373</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ProductGrid-m0x6kj95hl']/div/div/div/div/ul/li/div[2]/div[4]/div[2]/div/button</value>
+      <webElementGuid>9fe55be2-e3a2-4ff1-8e58-cae249b1e702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='off'])[1]/following::button[1]</value>
+      <webElementGuid>a6a683f8-41ce-4c7a-8733-30262a4b67b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick look'])[2]/preceding::button[1]</value>
+      <webElementGuid>7bc06109-1c0e-4d2d-923b-89df30dfe7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>1c730dba-9a37-4001-a28f-59108ab8a807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add to Cart' or . = 'Add to Cart')]</value>
+      <webElementGuid>132326b4-262b-4a53-a96a-e12512187617</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
